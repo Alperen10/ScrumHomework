@@ -7,5 +7,5 @@ User-story 5 için gerekli kodları yazdıktan sonra,user-story 6 için .xlsx fo
 
 ## Katkıda Bulunanlar
 
-[Aperen AKGÜN 192803061](https://github.com/Alperen10)
+[Alperen AKGÜN 192803061](https://github.com/Alperen10)
 [Süleyman Tunahan ATEŞ 192803022](https://github.com/tuna07ates)
